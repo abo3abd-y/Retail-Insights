@@ -104,3 +104,44 @@ This project analyzes customer transaction data from an e-commerce platform to u
 
 ## Project Structure
 
+
+---
+
+## How to Run
+
+1. Clone this repository.
+2. Install the required Python libraries:
+    ```bash
+    pip install pandas matplotlib seaborn mlxtend scikit-learn
+    ```
+3. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
+4. Run through the notebook step-by-step.
+
+---
+
+## Technologies Used
+
+- Python 3
+- pandas
+- matplotlib
+- seaborn
+- mlxtend
+- scikit-learn
+
+---
+
+## Author
+
+**Abdullah Yassine**  
+Advanced Data Science Project - Spring 2025
+
+---
+
+## Acknowledgements
+
+- Dataset provided by UCI Machine Learning Repository.
+- Inspiration from RFM segmentation and classic data mining techniques.
+
